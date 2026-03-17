@@ -1,3 +1,5 @@
+![App Screenshot](FIA.png)
+
 # 💰 Finance Intelligence Agent (FIA)
 
 A Dockerized multi-agent AI system that answers financial queries using Retrieval-Augmented Generation (RAG) and local LLMs.
