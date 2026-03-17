@@ -3,3 +3,4 @@ env311/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+vector_db/
