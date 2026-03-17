@@ -93,8 +93,6 @@ Ollama (LLM)
 ## 🚀 How to Run
 
 ### 1. Start Ollama locally
-
-```bash
 ollama pull llama3
 ollama pull nomic-embed-text
 
@@ -104,10 +102,12 @@ docker compose up --build
 ### 3. Open UI
 http://localhost:8501
 
-💬 Example Query
+---
+
+## 💬 Example Query
 What is inflation?
 
-📈 Future Improvements
+## 📈 Future Improvements
 
 Chat history / memory
 Streaming responses
