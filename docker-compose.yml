@@ -1,0 +1,17 @@
+services:
+
+  backend:
+    build: .
+    container_name: fia-backend
+    ports:
+      - "8000:8000"
+
+  ui:
+    build:
+      context: .
+      dockerfile: Dockerfile.ui
+    container_name: fia-ui
+    ports:
+      - "8501:8501"
+    depends_on:
+      - backend
