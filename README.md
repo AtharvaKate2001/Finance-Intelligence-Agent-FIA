@@ -107,9 +107,34 @@ http://localhost:8501
 ## 💬 Example Query
 What is inflation?
 
+Response from the assistance:
+
+As a finance education assistant, I'd be happy to explain what inflation is.
+
+Inflation is a fundamental concept in personal finance, and it's closely related to budgeting and financial planning.
+
+Inflation refers to a sustained increase in the general price level of goods and services in an economy over a period of time. It's a measure of how quickly prices are rising. When there's inflation, the same amount of money can buy fewer goods and services than it could before.
+
+For example, if the inflation rate is 2%, it means that prices are increasing by 2% over the course of a year. So, if you had 100 last year, you'd need 102 to buy the same goods and services this year.
+
+Inflation can be caused by various factors, such as:
+
+Increased demand for goods and services
+Higher production costs
+Changes in government policies or monetary policy
+Global economic conditions
+Inflation can have both positive and negative effects on the economy and individual finances. On the positive side, inflation can stimulate economic growth by encouraging spending and investment. On the negative side, high inflation can erode the purchasing power of your money, making it harder to save and budget effectively.
+
+As a finance education assistant, I'd emphasize that it's essential to understand inflation and its impact on your financial decisions. This can help you make informed choices about your budget, investments, and long-term financial planning.
+
+Do you have any follow-up questions about inflation or budgeting?
+
 ## 📈 Future Improvements
 
 Chat history / memory
+
 Streaming responses
+
 Better UI (ChatGPT-style)
+
 Cloud deployment
